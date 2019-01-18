@@ -20,12 +20,12 @@ This demo is written in Python and includes many of the top Python libraries lik
 
 * [IzODA](https://izoda.github.io): An assembly of key open source and proprietary technologies that allow data scientists and application developers to analyze and visualize the large volumes of data hosted on IBM Z.
 * [Conda](https://conda.io/docs/index.html): An open source package management system and environment management system.
-* [Jupyter Notebook](http://jupyter.org/): An open source web application that allows you to create and share documents that contain live code, equations, visualizations, and explanatory text.
+* [Jupyter Notebook](https://jupyter.org/): An open source web application that allows you to create and share documents that contain live code, equations, visualizations, and explanatory text.
 * [Pandas](https://pandas.pydata.org): An open source, BSD-licensed library that provides high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
-* [Scikit-learn](http://scikit-learn.org/stable/): A simple and efficient set of tools for data mining and data analysis.
+* [Scikit-learn](https://scikit-learn.org/stable/): A simple and efficient set of tools for data mining and data analysis.
 * [MatPlotLib](https://matplotlib.org): A Python 2D plotting library that produces publication quality figures in a variety of hard-copy formats and interactive environments across platforms.
 * [Seaborn](https://seaborn.pydata.org): A Python data visualization library that's based on MatPlotLib. It provides a high-level interface for drawing attractive and informative statistical graphics.
-* [Numpy](http://www.numpy.org): The fundamental package for scientific computing with Python. It contains among other things:
+* [Numpy](https://www.numpy.org): The fundamental package for scientific computing with Python. It contains among other things:
 * [DSDBC](https://anaconda.org/izoda/dsdbc)
 * [ODL](https://izoda.github.io/site/odl/odl/): The Optimized Data Layer is also known as the IBM Mainframe Data Service for Apache Spark (MDS, or MDSS).
 
@@ -75,12 +75,12 @@ The code included in this code pattern runs in a Jupyter Notebook.
 # Learn more
 
 * **IBM Open Data Analytics for z/OS**: Read more [here](https://izoda.github.io).
-* **Artificial intelligence code patterns**: Enjoyed this code pattern? Check out our other [AI code patterns](https://developer.ibm.com/code/technologies/artificial-intelligence/).
-* **Data analytics code patterns**: Enjoyed this code pattern? Check out our other [data analytics code patterns](https://developer.ibm.com/code/technologies/data-science/).
+* **Artificial intelligence code patterns**: Enjoyed this code pattern? Check out our other [AI code patterns](https://developer.ibm.com/technologies/artificial-intelligence/).
+* **Data analytics code patterns**: Enjoyed this code pattern? Check out our other [data analytics code patterns](https://developer.ibm.com/technologies/data-science/).
 * **AI and data code pattern playlist**: Bookmark our [playlist](https://www.youtube.com/playlist?list=PLzUbsvIyrNfknNewObx5N7uGZ5FKH0Fde) with all of our code pattern videos.
 
 
 # License
-This code pattern is licensed under the Apache Software License, Version 2.  Separate third party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1 (DCO)](https://developercertificate.org/) and the [Apache Software License, Version 2](http://www.apache.org/licenses/LICENSE-2.0.txt).
+This code pattern is licensed under the Apache Software License, Version 2.  Separate third party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1 (DCO)](https://developercertificate.org/) and the [Apache Software License, Version 2](https://www.apache.org/licenses/LICENSE-2.0.txt).
 
-[Apache Software License (ASL) FAQ](http://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN)
+[Apache Software License (ASL) FAQ](https://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN)
